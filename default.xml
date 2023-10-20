@@ -6,7 +6,7 @@
     />
     <default
         remote="origin"
-        revision="refs/head/master"
+        revision="master"
         sync-j="4"
     />
     <project path="AndroidOS" name="AndroidOS"/>
