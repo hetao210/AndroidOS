@@ -10,5 +10,5 @@
         sync-j="4"
     />
     <project path="AndroidOS" name="AndroidOS"/>
-    <project path="/device" name="device"/>
+    <project path="device" name="device"/>
 </manifest>
