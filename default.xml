@@ -6,7 +6,7 @@
     />
     <default
         remote="origin"
-        revision="master"
+        revision="main"
         sync-j="4"
     />
     <project path="new" name="new"/>
