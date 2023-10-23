@@ -9,6 +9,6 @@
         revision="main"
         sync-j="4"
     />
-    <project path="new" name="new"/>
+    <project path="new2" name="new2"/>
     <project path="device" name="device"/>
 </manifest>
